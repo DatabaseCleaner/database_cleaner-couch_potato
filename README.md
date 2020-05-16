@@ -1,5 +1,8 @@
 # Database Cleaner Adapter for CouchPotato
 
+## Maintainers Wanted
+**This adapter is currently unmaintained. This means that bugs will not be fixed and features will not be added unless someone else does so. If you're interested in taking over maintenance, please open an issue and tell us about it!**
+
 [![Build Status](https://travis-ci.org/DatabaseCleaner/database_cleaner-couch_potato.svg?branch=master)](https://travis-ci.org/DatabaseCleaner/database_cleaner-couch_potato)
 [![Code Climate](https://codeclimate.com/github/DatabaseCleaner/database_cleaner-couch_potato/badges/gpa.svg)](https://codeclimate.com/github/DatabaseCleaner/database_cleaner-couch_potato)
 
